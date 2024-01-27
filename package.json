@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "ahooks": "^3.7.8",
+    "ali-oss": "^6.18.1",
+    "axios": "^1.6.2",
+    "next": "14.0.2",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.2"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
